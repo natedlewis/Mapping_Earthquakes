@@ -2,4 +2,4 @@
 config.js
 
 # Ignore anything aside from Earthquake_Challenge
-.json/
+Mapping_GeoJSON_Linestrings/
